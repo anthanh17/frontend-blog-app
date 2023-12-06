@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <div className="bg-gray-900">
       <div className="px-4 pt-16 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-4">
-        <div>
+        <div className="grid grid-cols-2 gap-5 lg:col-span-4 md:grid-clos-4">
           <div className="grid grid-cols-2 gap-5 lg:col-span-4 md:grid-cols-4">
             <div>
               <p className="font-medium tracking-wide text-gray-300">
@@ -183,6 +183,54 @@ const Footer = () => {
                 </li>
               </ul>
             </div>
+          </div>
+          {/* Subscription */}
+          <div className="md:max-w-md lg:col-span-2 lg:mt-0 mt-5">
+            <p className="font-medium tracking-wide text-gray-300">
+              Subscribe for <updates> </updates>
+            </p>
+            <ul className="mt-2 space-y-2">
+              <li>
+                <a
+                  href="/"
+                  className="text-gray-500 transition-colors duration-300 hover:text-orange-500"
+                >
+                  Infopreneur
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                  className="text-gray-500 transition-colors duration-300 hover:text-orange-500"
+                >
+                  Personal
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                  className="text-gray-500 transition-colors duration-300 hover:text-orange-500"
+                >
+                  Wiki
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                  className="text-gray-500 transition-colors duration-300 hover:text-orange-500"
+                >
+                  Forum
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/"
+                  className="text-gray-500 transition-colors duration-300 hover:text-orange-500"
+                >
+                  Projects
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
