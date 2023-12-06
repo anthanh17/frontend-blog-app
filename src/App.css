@@ -35,3 +35,7 @@
   border-radius: 4px;
   color: #fff;
 }
+
+.active-button {
+  color: #fc3c1a;
+}
