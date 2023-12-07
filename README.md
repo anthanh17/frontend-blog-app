@@ -21,9 +21,19 @@
 - `TailwindCSS`: Framework CSS
 - `PostCss`: Plugins transforming CSS
 
-# How to run
+# How to run:
+
+## Run blog
 
 ```
 npm i
 npm run dev
+```
+
+## Run data test
+
+```
+cd data_test
+npm i
+npm start
 ```
