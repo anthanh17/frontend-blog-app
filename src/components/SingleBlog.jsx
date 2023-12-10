@@ -9,7 +9,7 @@ const SingleBlog = () => {
   const {
     title,
     image,
-    category,
+    // category,
     author,
     published_date,
     reading_time,
@@ -49,7 +49,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -61,7 +61,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -73,7 +73,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -85,7 +85,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -97,7 +97,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -109,7 +109,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -121,7 +121,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -133,7 +133,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -145,7 +145,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
@@ -157,7 +157,7 @@ const SingleBlog = () => {
             </p>
             <p>
               In this age of omniconnectedness, words like network, community
-              and even friends no longer mean what they used to. Networks don't
+              and even friends no longer mean what they used to. Networks dont
               exist on LinkedIn. A community is not something that happens on a
               blog or on Twitter. And a friend is more than someone whose online
               status you check.
